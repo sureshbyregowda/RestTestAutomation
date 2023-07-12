@@ -10,6 +10,7 @@ public class SearchText {
 
 		WebDriverManager.chromedriver().setup();
 
+
 	}
 
 }
